@@ -1,0 +1,22 @@
+{
+  "name": "tp1-leger-axel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "tsx watch src/main.ts",
+    "build": "tsc -p .",
+    "start": "node dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axel-Leger/tp1_leger-axel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Axel-Leger/tp1_leger-axel/issues"
+  },
+  "homepage": "https://github.com/Axel-Leger/tp1_leger-axel#readme",
+  "description": ""
+}
